@@ -3,7 +3,7 @@ from binarytree.structures import TreeNode
 
 def make_tree_by(lst, idx):
     parent = None
-    if idx < len(lst):
+    if idx < len(lst):           #
         value = lst[idx]
         if value == None:
             return

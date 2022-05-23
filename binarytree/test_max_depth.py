@@ -3,7 +3,7 @@ from collections import deque
 from binarytree.prac import make_tree_by
 
 
-def test_max_depth(lst):
+def test_max_depth(lst):     # 3 9 20
     root = make_tree_by(lst, 0)
     if not root:
         return 0
