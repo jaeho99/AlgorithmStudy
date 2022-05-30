@@ -94,6 +94,6 @@ def twoSum(nums: List[int], target: [int]) -> List[int]:
 # # print(sol.twoSum([2,3,4],6))
 # # print(sol.twoSum([-1,0],-1))
 # print(sol.twoSum([1,2,3,4,4,9,56,90],8))
-numbers = [1, 2, 3, 4, 4, 9, 56, 90]
-
-print(Solution().twoSum(numbers, 8))
+# numbers = [1, 2, 3, 4, 4, 9, 56, 90]
+#
+# print(twoSum(numbers, 8))
