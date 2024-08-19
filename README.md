@@ -1,1 +1,1 @@
-# AlgorithmStudy
+# LeetCode Study
