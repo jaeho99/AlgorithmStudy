@@ -1,3 +1,3 @@
-# LeetCode Study
+# Baekjoon Online Study
 
-1일 1커밋 이상 하기
+처음부터 다시 꾸준히 나아가기
